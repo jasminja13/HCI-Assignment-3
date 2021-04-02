@@ -9,4 +9,4 @@ Desirable functionalities:
 4. It would be great  to have a feature where all the data for person's vaccination can be kept at one spot for their personal reference.
 5. Children can made aware about COVID-19 and its precautions by adding some kind of cool game feature which enhances their knowledge.
 
-https://user-images.githubusercontent.com/48334837/113441415-483ca200-93bc-11eb-8cf1-a4d85ee4917f.png
+https://github.com/jasminja13/HCI-Assignment-3/issues/1#issue-849370842
